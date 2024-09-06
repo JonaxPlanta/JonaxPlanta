@@ -14,12 +14,12 @@
 
 <div>
 	<div>
-		<img align="center" width="40em" alt="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-		<img align="center" width="40em" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-		<img align="center" width="40em" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-		<img align="center" width="40em" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-        	<img align="center" width="40em" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-		<img align="center" width="40em" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+		<img align="center" width="47em" alt="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+		<img align="center" width="47em" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+		<img align="center" width="47em" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+		<img align="center" width="47em" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        	<img align="center" width="47em" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+		<img align="center" width="47em" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 	</div>
  </div>
  
