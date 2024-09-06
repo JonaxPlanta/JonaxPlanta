@@ -1,4 +1,4 @@
-<div align="center" width="50%">
+<div align="center" width="50%" background color="0">
 	
 </div>
 
