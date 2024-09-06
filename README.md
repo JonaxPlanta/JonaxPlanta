@@ -31,7 +31,8 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-flores-610444327/" ><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://discordapp.com/users/jonaxplanta" ><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
-	<div>
-		<p align="right"><b>Thanks for viewing my profile!</b></p>
-	</div>
- 	<img align="right" src="https://media.giphy.com/media/cT6uTXSKabqcE/giphy.gif?cid=790b76117eb9hdnhmu211ssppwuyemq229apfg33hznu67lm&ep=v1_gifs_search&rid=giphy.gif">
+
+<div>
+	<p align="right"><b>Thanks for viewing my profile!</b></p>
+</div>
+ <img align="right" src="https://media.giphy.com/media/cT6uTXSKabqcE/giphy.gif?cid=790b76117eb9hdnhmu211ssppwuyemq229apfg33hznu67lm&ep=v1_gifs_search&rid=giphy.gif">
