@@ -12,6 +12,7 @@
 </div>
 
 <br>
+---
 
 ## Programming Languages:
 
@@ -27,6 +28,7 @@
  </div>
  
 <br>
+---
 
 ## Contact Me:
 
