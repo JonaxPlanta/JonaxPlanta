@@ -20,9 +20,6 @@
         	<img align="center" width="50em" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 		<img align="center" width="50em" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 	</div>
-	<div>
-		<p align="right"><i>JonaxPlanta '-'</i></p>
-	</div>
  </div>
 	  
 <div>
@@ -31,4 +28,6 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-flores-610444327/" ><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="@jonaxplanta" ><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
----
+	<div>
+		<p align="right"><b>Thanks for viewing my profile!</b></p>
+	</div>
