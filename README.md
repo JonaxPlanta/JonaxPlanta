@@ -21,7 +21,7 @@
 		<img align="center" width="50em" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 	</div>
  </div>
-	  
+<br>	  
 <div>
   <a href="joaoplayer247@gmail.com" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/jonaxplanta/" ><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
