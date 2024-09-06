@@ -10,7 +10,7 @@
 </div>
 
 
-## 🖥️ Programming Languages 🖥️
+## 🖥️ Programming Languages :
 
 <div>
 	<div>
@@ -23,7 +23,7 @@
 	</div>
  </div>
  
-## 📱 Contact Me 📱
+## 📱 Contact Me :
 
 <div>
   <a href="mailto:joaoplayer247@gmail.com" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
