@@ -4,6 +4,8 @@
 
 #### I'm trying to learn TypeScript, Java and C#...
 
+<br>
+
 <div align="center">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonaxplanta&count_private=true&theme=gotham#gh-dark-mode-only"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaxplanta&layout=compact&langs_count=7&theme=gotham"/>
