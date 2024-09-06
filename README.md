@@ -34,7 +34,7 @@
 
 <br>
 
-<div align="center">>
+<div align="center">
 	<p <b>Thanks for viewing my profile! 👋</b></p>
 	<img width="26%" src="https://media.giphy.com/media/cT6uTXSKabqcE/giphy.gif?cid=790b76117eb9hdnhmu211ssppwuyemq229apfg33hznu67lm&ep=v1_gifs_search&rid=giphy.gif">
 </div>
