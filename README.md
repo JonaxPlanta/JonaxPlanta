@@ -39,4 +39,3 @@
 	<div>
 		<p align="right"><b>Thanks for viewing my profile!</b></p>
 	</div>
----
