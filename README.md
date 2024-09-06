@@ -2,7 +2,7 @@
 
 #### I'm trying to learn TypeScript, Java and C#...
 
-<img src="https://media1.tenor.com/m/buehRLio7DMAAAAd/plague-doctor.gif">
+<img src="https://media.giphy.com/media/cT6uTXSKabqcE/giphy.gif?cid=790b76117eb9hdnhmu211ssppwuyemq229apfg33hznu67lm&ep=v1_gifs_search&rid=giphy.gif">
 
 <br>
 
