@@ -9,7 +9,7 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaxplanta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Programming Languages
+## Programming Languages:
 
 <div>
 	<div>
@@ -23,6 +23,8 @@
  </div>
  
 <br>
+
+## Contact Me:
 
 <div>
   <a href="joaoplayer247@gmail.com" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
