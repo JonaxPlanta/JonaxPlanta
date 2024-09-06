@@ -1,5 +1,6 @@
 ---
-## Hi! my name is JonaxPlanta 
+
+## Hi! my name is JonaxPlanta.
 
 #### I'm trying to learn TypeScript, Java and C#...
 
