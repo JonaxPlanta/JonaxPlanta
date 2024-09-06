@@ -1,6 +1,3 @@
-<div align="center" width="50%" heigth="1px" background color="#0C1014">
-</div>
-
 ## Hi! my name is JonaxPlanta.
 
 #### I'm trying to learn TypeScript, Java and C#...
